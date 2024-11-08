@@ -45,7 +45,6 @@ GitHub: [ChatApp Repository](https://github.com/Yashvardhandhondge/ChatApp)
 
 - Web3 in Solana Blockchain
 - DevOps practices with Kubernetes
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashvardhandhondge&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
@@ -53,5 +52,6 @@ GitHub: [ChatApp Repository](https://github.com/Yashvardhandhondge/ChatApp)
 ### 🏆 GitHub Achievements & Stats
 
 - **Total Stars**: ![Total Stars](https://img.shields.io/github/stars/Yashvardhandhondge?style=social)
-- **Top Languages**: JavaScript, TypeScript, Python, Rust
+- **Top Languages**:![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvardhandhondge&layout=compact&theme=dark)
+
 - **Contributions in the last year**: ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Yashvardhandhondge&theme=dark)
