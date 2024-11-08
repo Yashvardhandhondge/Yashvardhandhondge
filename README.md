@@ -26,9 +26,9 @@ GitHub: [ChatApp Repository](https://github.com/Yashvardhandhondge/ChatApp)
 
 - **Phone**: +91 8010140176
 - **Email**: yashvardhandhondge@gmail.com
-- **X**: [Yashvardhan's GitHub](https://x.com/yashvardhandho3)
-- **LinkedIn**: [Yashvardhan's LinkedIn](https://www.linkedin.com/in/yashvardhan-dhondge-0b9857296/)
-- **Portfolio**: [Yashvardhan's Portfolio](https://www.yashvardhandhondge.tech/)
+- **X**: [ X](https://x.com/yashvardhandho3)
+- **LinkedIn**: [ LinkedIn](https://www.linkedin.com/in/yashvardhan-dhondge-0b9857296/)
+- **Portfolio**: [ Portfolio](https://www.yashvardhandhondge.tech/)
 - **Resume**: [Download Resume](https://drive.google.com/file/d/1PeLGJUysbwjtWOPifFS1Mt-X4DHLjrFw/view)
 
 ## 🎓 Education
