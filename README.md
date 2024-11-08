@@ -49,8 +49,8 @@ GitHub: [ChatApp Repository](https://github.com/Yashvardhandhondge/ChatApp)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashvardhandhondge&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
-### 🏆 GitHub Achievements & Stats
+### 🏆 Top Languages
 
- ![Total Stars](https://img.shields.io/github/stars/Yashvardhandhondge?style=social)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvardhandhondge&layout=compact&theme=dark)
 
