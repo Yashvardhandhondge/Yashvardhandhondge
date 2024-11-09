@@ -52,5 +52,5 @@ GitHub: [ChatApp Repository](https://github.com/Yashvardhandhondge/ChatApp)
 ### 🏆 Top Languages
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvardhandhondge&layout=compact&theme=dark)
+
 
