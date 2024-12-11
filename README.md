@@ -15,8 +15,9 @@ I'm a 3rd-year Computer Science student aspiring to become a **Full-Stack Develo
 ## 📈 GitHub Stats
 
 ### Contribution Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yashvardhandhondge&theme=dracula)
 
+](https://github-readme-activity-graph.cyclic.app/graph?username=Yashvardhandhondge&theme=dracula
+)
 ### PRs Merged:
 ![PRs Merged](https://img.shields.io/github/issues-pr-closed/Yashvardhandhondge)
 
