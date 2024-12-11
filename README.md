@@ -16,7 +16,8 @@ I'm a 3rd-year Computer Science student aspiring to become a **Full-Stack Develo
 
 ### Contribution Graph:
 
-](https://github-readme-activity-graph.cyclic.app/graph?username=Yashvardhandhondge&theme=dracula
+[](https://github-readme-activity-graph.cyclic.app/graph?username=Yashvardhandhondge&theme=dracula
+)](https://github-readme-stats.vercel.app/api?username=Yashvardhandhondge&theme=radical
 )
 ### PRs Merged:
 ![PRs Merged](https://img.shields.io/github/issues-pr-closed/Yashvardhandhondge)
