@@ -19,3 +19,8 @@ I'm a 3rd-year Computer Science student aspiring to become a **Full-Stack Develo
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/yashvardhan-dhondge-0b9857296/)
 - **Portfolio**: [Portfolio](https://www.yashvardhandhondge.tech/)
 - **Resume**: [Download Resume](https://drive.google.com/file/d/1PeLGJUysbwjtWOPifFS1Mt-X4DHLjrFw/view)
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvardhandhondge&layout=compact&theme=radical)
+
