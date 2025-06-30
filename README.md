@@ -1,4 +1,5 @@
 # Hi, I'm Yashvardhan 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yashvardhandhondge&label=Profile%20views&color=0e75b6&style=flat" alt="Yashvardhandhondge" /> </p>
 
 I'm a 3rd-year Computer Science student aspiring to become a **Full-Stack Developer** and also work in **Web3** technologies, particularly in **Solana Blockchain**. I specialize in **JavaScript, TypeScript, Python, and Rust**, and am always eager to learn and collaborate on new projects.
 
