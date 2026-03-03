@@ -1,27 +1,55 @@
-# Hi, I'm Yashvardhan 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yashvardhandhondge&label=Profile%20views&color=0e75b6&style=flat" alt="Yashvardhandhondge" /> </p>
+# Yashvardhan Dhondge
 
-I'm a 3rd-year Computer Science student aspiring to become a **Full-Stack Developer** and also work in **Web3** technologies, particularly in **Solana Blockchain**. I specialize in **JavaScript, TypeScript, Python, and Rust**, and am always eager to learn and collaborate on new projects.
+Full-Stack & Web3 Engineer (2+ Years Experience)  
+Building production-grade systems across Web, Mobile & Blockchain.
 
-## 🛠️ Technologies & Tools
+---
 
-- **Languages**: JavaScript, TypeScript, Python, Java, Rust
-- **Frameworks & Libraries**: React.js, Next.js, Express.js, Anchor
-- **Blockchain**: Solana development (Token creation, Token transfers, Client-side integration, NFT creation, On-chain programs)
-- **Tools**: Docker, GitHub, CI/CD, Postman
-- **Databases**: MongoDB, PostgreSQL
+## 🚀 Live Production Work
 
+• CodedEstate (Blockchain Rental & Trading Platform)  
+  https://app.codedestate.com/
 
-## 📫 Contact Me
+• CodedEstate Rental (In Development)  
+  https://rental.codedestate.com/rent/onboarding
 
-- **Phone**: +91 8010140176
-- **Email**: yashvardhandhondge@gmail.com
-- **X**: [X](https://x.com/yashvardhandho3)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/yashvardhan-dhondge-0b9857296/)
-- **Portfolio**: [Portfolio](https://www.yashvardhandhondge.tech/)
-- **Resume**: [Download Resume](https://drive.google.com/file/d/1PeLGJUysbwjtWOPifFS1Mt-X4DHLjrFw/view)
+• VX Software Solutions  
+  https://www.vxsoftwaresolutions.com/
 
-## 📊 GitHub Stats
+• VRemind ERP (School Admin / Teacher / Student System)  
+  https://vremind.vxsoftwaresolutions.com/
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvardhandhondge&layout=compact&theme=radical)
+• VRemind Mobile App  
+  https://play.google.com/store/apps/details?id=com.vxeducationmobile
 
+• Yash Classes – MHT CET Counselling App  
+  https://play.google.com/store/apps/details?id=com.yashclasses.counselling
+
+• Yash Classes – MHT CET PYQ App  
+  https://play.google.com/store/apps/details?id=com.mcqfrontend.app
+
+• BioRLabs  
+  https://biorlabs.com/
+
+---
+
+## ⚙️ Core Expertise
+
+• Node.js / Express / TypeScript  
+• React / Next.js  
+• WebSockets / Real-Time Systems  
+• Redis / BullMQ / Background Processing  
+• PostgreSQL / MongoDB  
+• Blockchain Integrations (EVM & Nibiru)  
+• Production Deployment & DevOps  
+
+---
+
+## 📫 Contact
+
+Email: yashvardhandhondge@gmail.com  
+Phone: +91 8010140176  
+
+GitHub: https://github.com/Yashvardhandhondge  
+LinkedIn: https://www.linkedin.com/in/yashvardhan-dhondge-0b9857296/  
+X: https://x.com/yashvardhandho3
